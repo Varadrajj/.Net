@@ -1,0 +1,11 @@
+D:\DotNet\Serialization\Catalog\bin\Debug\net8.0\Catalog.deps.json
+D:\DotNet\Serialization\Catalog\bin\Debug\net8.0\Catalog.dll
+D:\DotNet\Serialization\Catalog\bin\Debug\net8.0\Catalog.pdb
+D:\DotNet\Serialization\Catalog\obj\Debug\net8.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Serialization\Catalog\obj\Debug\net8.0\Catalog.AssemblyInfoInputs.cache
+D:\DotNet\Serialization\Catalog\obj\Debug\net8.0\Catalog.AssemblyInfo.cs
+D:\DotNet\Serialization\Catalog\obj\Debug\net8.0\Catalog.csproj.CoreCompileInputs.cache
+D:\DotNet\Serialization\Catalog\obj\Debug\net8.0\Catalog.dll
+D:\DotNet\Serialization\Catalog\obj\Debug\net8.0\refint\Catalog.dll
+D:\DotNet\Serialization\Catalog\obj\Debug\net8.0\Catalog.pdb
+D:\DotNet\Serialization\Catalog\obj\Debug\net8.0\ref\Catalog.dll
