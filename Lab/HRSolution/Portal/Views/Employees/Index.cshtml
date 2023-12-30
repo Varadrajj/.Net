@@ -1,0 +1,19 @@
+@using Portal.Models;
+
+@{
+    ViewData["Title"] = "Employees List Page";
+}
+
+<h2>Employees List</h2>
+<hr />
+@{
+    List<Employee> employees = (List<Employee>)ViewData["employees"];
+    <ol>
+        @foreach (Employee emp in employees)
+        {
+            <li>
+                @emp.Name <a href="">Details</a>|<a href="">Edit</a>|<a href="">Delete</a>
+            </li>
+        }
+    </ol>
+}
