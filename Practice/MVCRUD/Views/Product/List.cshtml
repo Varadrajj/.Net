@@ -1,0 +1,23 @@
+@using MVCRUD.Models;
+@{
+    ViewData["Title"]="Product List";
+}
+<h2><b><i>Product List</i></b></h2>
+<hr/>
+<a href="Insert">Add New Product</a><br/>
+<a href="Delete">Delete Product</a><br/>
+<a href="Update">Update Product</a>
+<hr/>
+@{
+    List<Product> products=ViewData["products"] as List<Product>;
+        <table>
+            @foreach(Product p in products){
+                <tr>
+                    <td>@p.Pid.</td>
+                    <td>@p.Pname</td>
+                    <td>@p.Quantity</td>
+                    <td>@p.Price</td>
+                </tr>
+            }
+        </table>
+}

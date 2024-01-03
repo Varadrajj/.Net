@@ -1,0 +1,14 @@
+D:\CDAC\CDAC Programs\.Net\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.exe
+D:\CDAC\CDAC Programs\.Net\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.deps.json
+D:\CDAC\CDAC Programs\.Net\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.runtimeconfig.json
+D:\CDAC\CDAC Programs\.Net\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.dll
+D:\CDAC\CDAC Programs\.Net\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.pdb
+D:\CDAC\CDAC Programs\.Net\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\CDAC Programs\.Net\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.AssemblyInfoInputs.cache
+D:\CDAC\CDAC Programs\.Net\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.AssemblyInfo.cs
+D:\CDAC\CDAC Programs\.Net\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+D:\CDAC\CDAC Programs\.Net\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.dll
+D:\CDAC\CDAC Programs\.Net\HelloWorldApp\obj\Debug\net8.0\refint\HelloWorldApp.dll
+D:\CDAC\CDAC Programs\.Net\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.pdb
+D:\CDAC\CDAC Programs\.Net\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.genruntimeconfig.cache
+D:\CDAC\CDAC Programs\.Net\HelloWorldApp\obj\Debug\net8.0\ref\HelloWorldApp.dll
