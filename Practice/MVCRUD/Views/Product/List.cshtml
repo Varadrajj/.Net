@@ -2,6 +2,9 @@
 @{
     ViewData["Title"]="Product List";
 }
+<div align="center">
+
+
 <h2><b><i>Product List</i></b></h2>
 <hr/>
 <a href="Insert">Add New Product</a><br/>
@@ -10,14 +13,26 @@
 <hr/>
 @{
     List<Product> products=ViewData["products"] as List<Product>;
-        <table>
-            @foreach(Product p in products){
+        <table border=5px>
+            <thead border="1" align="center">
                 <tr>
+                    <th>Product Id</th>
+                    <th>Title</th>
+                    <th>Quantity</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            @foreach(Product p in products){
+                <tbody border="1" align="center">
+                    <tr>
                     <td>@p.Pid.</td>
                     <td>@p.Pname</td>
                     <td>@p.Quantity</td>
                     <td>@p.Price</td>
                 </tr>
+                </tbody>
+                
             }
         </table>
 }
+</div>

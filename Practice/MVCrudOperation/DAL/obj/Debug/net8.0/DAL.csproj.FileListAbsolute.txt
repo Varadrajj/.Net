@@ -1,0 +1,16 @@
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\DAL\bin\Debug\net8.0\DAL.dll
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\DAL\bin\Debug\net8.0\DAL.pdb
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\DAL\bin\Debug\net8.0\BOL.dll
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\DAL\bin\Debug\net8.0\BOL.pdb
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\DAL\obj\Debug\net8.0\DAL.dll
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\DAL\obj\Debug\net8.0\DAL.pdb
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\DAL\obj\Debug\net8.0\ref\DAL.dll

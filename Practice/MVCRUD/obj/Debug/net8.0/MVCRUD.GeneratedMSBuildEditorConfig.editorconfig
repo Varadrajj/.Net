@@ -9,55 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVCRUD
 build_property.RootNamespace = MVCRUD
-build_property.ProjectDir = D:\CDAC\CDAC Programs\.Net\MVCRUD\
+build_property.ProjectDir = D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCRUD\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\CDAC\CDAC Programs\.Net\MVCRUD
+build_property.MSBuildProjectDirectory = D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCRUD
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/CDAC/CDAC Programs/.Net/MVCRUD/Views/Home/Index.cshtml]
+[D:/CDAC/CDAC Programs/.Net/.Net/Practice/MVCRUD/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/CDAC Programs/.Net/MVCRUD/Views/Home/Privacy.cshtml]
+[D:/CDAC/CDAC Programs/.Net/.Net/Practice/MVCRUD/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/CDAC Programs/.Net/MVCRUD/Views/Product/Delete.cshtml]
+[D:/CDAC/CDAC Programs/.Net/.Net/Practice/MVCRUD/Views/Product/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/CDAC Programs/.Net/MVCRUD/Views/Product/Insert.cshtml]
+[D:/CDAC/CDAC Programs/.Net/.Net/Practice/MVCRUD/Views/Product/Insert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbnNlcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/CDAC Programs/.Net/MVCRUD/Views/Product/List.cshtml]
+[D:/CDAC/CDAC Programs/.Net/.Net/Practice/MVCRUD/Views/Product/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/CDAC Programs/.Net/MVCRUD/Views/Product/Update.cshtml]
+[D:/CDAC/CDAC Programs/.Net/.Net/Practice/MVCRUD/Views/Product/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/CDAC Programs/.Net/MVCRUD/Views/Shared/Error.cshtml]
+[D:/CDAC/CDAC Programs/.Net/.Net/Practice/MVCRUD/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/CDAC Programs/.Net/MVCRUD/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/CDAC/CDAC Programs/.Net/.Net/Practice/MVCRUD/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/CDAC Programs/.Net/MVCRUD/Views/_ViewImports.cshtml]
+[D:/CDAC/CDAC Programs/.Net/.Net/Practice/MVCRUD/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/CDAC Programs/.Net/MVCRUD/Views/_ViewStart.cshtml]
+[D:/CDAC/CDAC Programs/.Net/.Net/Practice/MVCRUD/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/CDAC Programs/.Net/MVCRUD/Views/Shared/_Layout.cshtml]
+[D:/CDAC/CDAC Programs/.Net/.Net/Practice/MVCRUD/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-l8whwwxtgi

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CDAC\\CDAC Programs\\.Net\\MVCRUD\\MVCRUD.csproj": {}
+    "D:\\CDAC\\CDAC Programs\\.Net\\.Net\\Practice\\MVCRUD\\MVCRUD.csproj": {}
   },
   "projects": {
-    "D:\\CDAC\\CDAC Programs\\.Net\\MVCRUD\\MVCRUD.csproj": {
+    "D:\\CDAC\\CDAC Programs\\.Net\\.Net\\Practice\\MVCRUD\\MVCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CDAC\\CDAC Programs\\.Net\\MVCRUD\\MVCRUD.csproj",
+        "projectUniqueName": "D:\\CDAC\\CDAC Programs\\.Net\\.Net\\Practice\\MVCRUD\\MVCRUD.csproj",
         "projectName": "MVCRUD",
-        "projectPath": "D:\\CDAC\\CDAC Programs\\.Net\\MVCRUD\\MVCRUD.csproj",
+        "projectPath": "D:\\CDAC\\CDAC Programs\\.Net\\.Net\\Practice\\MVCRUD\\MVCRUD.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\CDAC\\CDAC Programs\\.Net\\MVCRUD\\obj\\",
+        "outputPath": "D:\\CDAC\\CDAC Programs\\.Net\\.Net\\Practice\\MVCRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

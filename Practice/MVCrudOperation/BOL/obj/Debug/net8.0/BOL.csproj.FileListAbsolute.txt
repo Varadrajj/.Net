@@ -1,0 +1,12 @@
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\BOL\bin\Debug\net8.0\BOL.deps.json
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\BOL\bin\Debug\net8.0\BOL.dll
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\BOL\bin\Debug\net8.0\BOL.pdb
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\BOL\obj\Debug\net8.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\BOL\obj\Debug\net8.0\BOL.AssemblyInfoInputs.cache
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\BOL\obj\Debug\net8.0\BOL.AssemblyInfo.cs
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\BOL\obj\Debug\net8.0\BOL.csproj.CoreCompileInputs.cache
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\BOL\obj\Debug\net8.0\BOL.sourcelink.json
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\BOL\obj\Debug\net8.0\BOL.dll
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\BOL\obj\Debug\net8.0\refint\BOL.dll
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\BOL\obj\Debug\net8.0\BOL.pdb
+D:\CDAC\CDAC Programs\.Net\.Net\Practice\MVCrudOperation\BOL\obj\Debug\net8.0\ref\BOL.dll
