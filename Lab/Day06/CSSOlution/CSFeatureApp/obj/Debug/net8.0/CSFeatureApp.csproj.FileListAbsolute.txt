@@ -1,0 +1,14 @@
+D:\DotNet\Day06\CSSOlution\CSFeatureApp\bin\Debug\net8.0\CSFeatureApp.exe
+D:\DotNet\Day06\CSSOlution\CSFeatureApp\bin\Debug\net8.0\CSFeatureApp.deps.json
+D:\DotNet\Day06\CSSOlution\CSFeatureApp\bin\Debug\net8.0\CSFeatureApp.runtimeconfig.json
+D:\DotNet\Day06\CSSOlution\CSFeatureApp\bin\Debug\net8.0\CSFeatureApp.dll
+D:\DotNet\Day06\CSSOlution\CSFeatureApp\bin\Debug\net8.0\CSFeatureApp.pdb
+D:\DotNet\Day06\CSSOlution\CSFeatureApp\obj\Debug\net8.0\CSFeatureApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Day06\CSSOlution\CSFeatureApp\obj\Debug\net8.0\CSFeatureApp.AssemblyInfoInputs.cache
+D:\DotNet\Day06\CSSOlution\CSFeatureApp\obj\Debug\net8.0\CSFeatureApp.AssemblyInfo.cs
+D:\DotNet\Day06\CSSOlution\CSFeatureApp\obj\Debug\net8.0\CSFeatureApp.csproj.CoreCompileInputs.cache
+D:\DotNet\Day06\CSSOlution\CSFeatureApp\obj\Debug\net8.0\CSFeatureApp.dll
+D:\DotNet\Day06\CSSOlution\CSFeatureApp\obj\Debug\net8.0\refint\CSFeatureApp.dll
+D:\DotNet\Day06\CSSOlution\CSFeatureApp\obj\Debug\net8.0\CSFeatureApp.pdb
+D:\DotNet\Day06\CSSOlution\CSFeatureApp\obj\Debug\net8.0\CSFeatureApp.genruntimeconfig.cache
+D:\DotNet\Day06\CSSOlution\CSFeatureApp\obj\Debug\net8.0\ref\CSFeatureApp.dll

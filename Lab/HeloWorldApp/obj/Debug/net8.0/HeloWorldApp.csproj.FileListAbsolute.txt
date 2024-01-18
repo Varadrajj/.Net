@@ -1,0 +1,14 @@
+D:\DotNet\HeloWorldApp\bin\Debug\net8.0\HeloWorldApp.exe
+D:\DotNet\HeloWorldApp\bin\Debug\net8.0\HeloWorldApp.deps.json
+D:\DotNet\HeloWorldApp\bin\Debug\net8.0\HeloWorldApp.runtimeconfig.json
+D:\DotNet\HeloWorldApp\bin\Debug\net8.0\HeloWorldApp.dll
+D:\DotNet\HeloWorldApp\bin\Debug\net8.0\HeloWorldApp.pdb
+D:\DotNet\HeloWorldApp\obj\Debug\net8.0\HeloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\HeloWorldApp\obj\Debug\net8.0\HeloWorldApp.AssemblyInfoInputs.cache
+D:\DotNet\HeloWorldApp\obj\Debug\net8.0\HeloWorldApp.AssemblyInfo.cs
+D:\DotNet\HeloWorldApp\obj\Debug\net8.0\HeloWorldApp.csproj.CoreCompileInputs.cache
+D:\DotNet\HeloWorldApp\obj\Debug\net8.0\HeloWorldApp.dll
+D:\DotNet\HeloWorldApp\obj\Debug\net8.0\refint\HeloWorldApp.dll
+D:\DotNet\HeloWorldApp\obj\Debug\net8.0\HeloWorldApp.pdb
+D:\DotNet\HeloWorldApp\obj\Debug\net8.0\HeloWorldApp.genruntimeconfig.cache
+D:\DotNet\HeloWorldApp\obj\Debug\net8.0\ref\HeloWorldApp.dll

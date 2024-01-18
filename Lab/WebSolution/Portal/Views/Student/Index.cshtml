@@ -1,0 +1,21 @@
+﻿@using model;
+@using Portal.Models;
+@{
+    ViewData["Title"] = "Students Page";
+}
+
+<div class="text-center">
+    <h2 class="display-4">Student List</h2>
+    <hr />
+
+    @{
+        List<Student> allStudents = (List<Student>)ViewData["allStudents"];
+        foreach (Student p in allStudents)
+        {
+            <p><b>@p.FirstName @p.LastName</b></p>
+        }
+    }
+
+
+
+</div>

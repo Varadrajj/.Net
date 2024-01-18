@@ -1,0 +1,11 @@
+D:\DotNet\Day05\EventDrivenSolution\Banking\bin\Debug\net8.0\Banking.deps.json
+D:\DotNet\Day05\EventDrivenSolution\Banking\bin\Debug\net8.0\Banking.dll
+D:\DotNet\Day05\EventDrivenSolution\Banking\bin\Debug\net8.0\Banking.pdb
+D:\DotNet\Day05\EventDrivenSolution\Banking\obj\Debug\net8.0\Banking.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Day05\EventDrivenSolution\Banking\obj\Debug\net8.0\Banking.AssemblyInfoInputs.cache
+D:\DotNet\Day05\EventDrivenSolution\Banking\obj\Debug\net8.0\Banking.AssemblyInfo.cs
+D:\DotNet\Day05\EventDrivenSolution\Banking\obj\Debug\net8.0\Banking.csproj.CoreCompileInputs.cache
+D:\DotNet\Day05\EventDrivenSolution\Banking\obj\Debug\net8.0\Banking.dll
+D:\DotNet\Day05\EventDrivenSolution\Banking\obj\Debug\net8.0\refint\Banking.dll
+D:\DotNet\Day05\EventDrivenSolution\Banking\obj\Debug\net8.0\Banking.pdb
+D:\DotNet\Day05\EventDrivenSolution\Banking\obj\Debug\net8.0\ref\Banking.dll

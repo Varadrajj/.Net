@@ -1,0 +1,20 @@
+﻿@using Portal.Models;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h2 class="display-4">Welcome to the Portal!</h2>
+    <hr />
+
+    @{
+        List<Person> elist = (List<Person>)ViewData["Family"];
+        foreach (Person p in elist)
+        {
+            <p><b>@p.FirstName @p.LastName</b></p>
+        }
+    }
+
+
+
+</div>

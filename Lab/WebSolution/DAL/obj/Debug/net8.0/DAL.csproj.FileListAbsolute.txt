@@ -1,0 +1,5 @@
+D:\DotNet\WebSolution\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\DotNet\WebSolution\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\WebSolution\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\DotNet\WebSolution\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\DotNet\WebSolution\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache

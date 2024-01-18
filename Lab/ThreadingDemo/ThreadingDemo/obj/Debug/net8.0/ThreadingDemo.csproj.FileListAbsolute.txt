@@ -1,0 +1,4 @@
+D:\DotNet\ThreadingDemo\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ThreadingDemo\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.AssemblyInfoInputs.cache
+D:\DotNet\ThreadingDemo\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.AssemblyInfo.cs
+D:\DotNet\ThreadingDemo\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.csproj.CoreCompileInputs.cache

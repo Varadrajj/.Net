@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleApp2/1.0.0": {
+        "dependencies": {
+          "GDLLIb": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp2.dll": {}
+        }
+      },
+      "GDLLIb/1.0.0": {
+        "runtime": {
+          "GDLLIb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GDLLIb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

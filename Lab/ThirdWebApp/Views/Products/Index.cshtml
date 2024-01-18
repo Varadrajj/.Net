@@ -1,0 +1,19 @@
+@using Catalogue;
+
+@{
+    ViewData["Title"] = "Catalogue Page";
+}
+
+<div class="text-center">
+    @{
+        Product p = ViewData["flower"] as Product;
+    }
+    <h2>Product Catalogue</h2>
+    <hr/>
+    <img src=".\\images\\rose.jpg" width="100" height="100" />
+    <p>Title: @p.Title</p>
+    <p>Description: @p.Description</p>
+    <p>UnitPrice: @p.UnitPrice</p>
+    <p>Quantity: @p.Quantity</p>
+    <button>Add To Cart</button>
+</div>
